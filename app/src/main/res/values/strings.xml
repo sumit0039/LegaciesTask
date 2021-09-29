@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LegaciesTask</string>
+
+    <string name="title_event">Events</string>
+    <string name="title_requests">Requests</string>
+    <string name="title_enrollment">Enrollments</string>
+    <string name="title_notification">Notifications</string>
+
+
+</resources>

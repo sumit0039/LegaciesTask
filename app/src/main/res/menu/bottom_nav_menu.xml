@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_event"
+        android:icon="@drawable/ic_event"
+        android:title="@string/title_event" />
+
+    <item
+        android:id="@+id/nav_request"
+        android:icon="@drawable/ic_request"
+        android:title="@string/title_requests" />
+
+    <item
+        android:id="@+id/nav_enrollment"
+        android:icon="@drawable/enrollment"
+        android:title="@string/title_enrollment" />
+
+    <item
+        android:id="@+id/nav_notification"
+        android:icon="@drawable/ic_notification"
+        android:title="@string/title_notification" />
+
+
+</menu>
